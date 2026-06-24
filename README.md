@@ -1,2 +1,2 @@
 # AI_Projects
-Many Capstone projects made with help of Honeywll mentors in AI Begineers internship.
+Many Capstone projects made with help of Honeywell mentors in AI Begineers internship.
