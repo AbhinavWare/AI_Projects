@@ -1,0 +1,511 @@
+Student_ID,Gender,Department,City,CGPA,Aptitude_Score,Communication_Score,Attendance,Internship,Projects,Certifications,Placement,Salary_LPA
+1001,Female,CSE,Nashik,9.44,69,47,80.0, No,2,1.0,No,
+1002,female,Electronics,Delhi,9.78,91,81,83.0,YES,1,5.0,Yes,4.67
+1003,MALE,IT,Nagpur,,47,97,93.0, Yes,2,4.0,Yes,6.35
+1004,female,IT,Mumbai,9.05,61,55,81.0,,5,2.0,Yes,11.36
+1005,female,Electronics,Delhi,8.28,83,47,62.0,yes,4,3.0,Yes,3.56
+1006,male,Civil,Nashik,7.75,97,40,71.0,no,3,5.0,Yes,3.83
+1007,MALE,IT,Nagpur,5.43,75,83,87.0,yes,5,1.0,Yes,4.47
+1008,MALE,Civil,Delhi,7.04,44,44,89.0,YES,3,4.0,Yes,8.36
+1009,MALE,IT,Delhi,6.86,52,42,85.0,yes,1,3.0,No,
+1010,female,IT,Delhi,6.3,68,40,80.0,No,1,5.0,No,
+1011,Female,Mechanical,Nagpur,8.62,70,43,87.0,YES,1,3.0,Yes,4.35
+1012,MALE,IT,Nagpur,7.48,86,79,85.0,no,3,1.0,Yes,11.71
+1013,FEMALE,CSE,Pune,5.41,96,74,92.0,Yes,5,4.0,Yes,7.02
+1014,female,Electronics,Nashik,6.1,94,71,80.0,NO,1,3.0,Yes,7.51
+1015,male,Electronics,Mumbai,8.42,55,81,94.0,YES,5,3.0,Yes,5.22
+1016,Female,Civil,Delhi,5.38,81,73,93.0,No,3,0.0,Yes,7.24
+1017,FEMALE,IT,Pune,9.26,69,82,100.0,YES,5,3.0,Yes,8.96
+1018,FEMALE,CSE,Mumbai,7.48,96,64,77.0,YES,3,0.0,Yes,9.76
+1019,male,Civil,Pune,7.4,94,49,70.0,no,3,4.0,Yes,9.78
+1020,Female,Mechanical,Nagpur,7.96,55,60,82.0,YES,4,5.0,Yes,8.2
+1021,female,Civil,Delhi,9.12,51,85,81.0,NO,3,5.0,Yes,11.14
+1022,Male,Civil,Mumbai,6.74,56,78,76.0,yes,3,4.0,Yes,10.36
+1023,Female,IT,Mumbai,8.39,55,66,64.0,no,2,4.0,No,
+1024,male,Mechanical,Mumbai,7.83,51,66,70.0,NO,1,2.0,No,
+1025,FEMALE,Civil,Mumbai,6.34,47,41,89.0,no,4,4.0,No,
+1026,female,CSE,Mumbai,9.39,59,80,74.0,NO,4,3.0,Yes,9.81
+1027,Female,CSE,Pune,8.99,42,87,86.0,No,4,5.0,Yes,3.5
+1028,Male,Electronics,Delhi,8.29,55,52,94.0,NO,2,1.0,No,
+1029,Male,Mechanical,Nagpur,9.25,69,48,92.0,Yes ,3,5.0,Yes,3.06
+1030,MALE,Mechanical,Nagpur,9.34,84,91,79.0,NO,1,0.0,Yes,4.91
+1031,MALE,Electronics,Nagpur,8.54,62,75,75.0,Yes,5,5.0,Yes,8.97
+1032,male,Civil,Nagpur,9.19,67,61,93.0,Yes,3,2.0,Yes,6.7
+1033,Female,Mechanical,Pune,8.49,90,81,, No,2,4.0,Yes,6.62
+1034,Female,CSE,Nashik,8.4,79,65,94.0,Yes ,3,4.0,Yes,10.96
+1035,FEMALE,CSE,Delhi,8.09,93,97,99.0,Yes ,3,5.0,Yes,11.06
+1036,FEMALE,IT,Mumbai,8.76,44,93,87.0,yes,2,1.0,No,
+1037,FEMALE,Mechanical,Nashik,5.79,59,51,98.0,,4,1.0,No,
+1038,MALE,Civil,Nagpur,9.4,79,56,65.0,yes,4,2.0,Yes,11.18
+1039,Female,Electronics,Nashik,9.36,95,53,68.0,,1,0.0,No,
+1040,Female,Electronics,Delhi,,83,53,79.0, No,1,5.0,No,
+1041,Male,Civil,Mumbai,9.13,40,96,60.0,No,4,4.0,Yes,5.82
+1042,MALE,IT,Mumbai,5.64,96,73,67.0,Yes,5,5.0,Yes,9.22
+1043,female,Electronics,Delhi,6.68,69,92,82.0,NO,3,2.0,Yes,5.44
+1044,MALE,Mechanical,Delhi,8.72,60,96,,NO,5,3.0,Yes,4.72
+1045,female,IT,Nagpur,5.8,59,59,63.0, Yes,3,3.0,No,
+1046,Male,Mechanical,Mumbai,9.09,45,50,84.0,no,4,,Yes,4.66
+1047,male,CSE,Nashik,9.16,61,55,,No,1,4.0,No,
+1048,Female,IT,Pune,7.54,57,90,74.0, Yes,1,2.0,No,
+1049,Male,Electronics,Pune,5.03,47,70,80.0, Yes,5,4.0,Yes,6.08
+1050,Female,IT,Delhi,6.44,78,94,94.0,YES,1,1.0,No,
+1051,FEMALE,IT,Nagpur,8.08,71,45,73.0,YES,4,2.0,Yes,6.87
+1052,male,IT,Pune,9.91,72,95,95.0, Yes,5,4.0,Yes,10.48
+1053,male,IT,Mumbai,8.16,92,58,71.0,,3,2.0,Yes,4.08
+1054,Male,Mechanical,Delhi,6.3,55,76,76.0,no,1,2.0,No,
+1055,male,CSE,Nashik,8.17,51,97,98.0,No,2,4.0,Yes,9.61
+1056,female,Civil,Delhi,7.7,77,43,68.0, Yes,1,4.0,No,
+1057,male,IT,Nashik,8.9,91,86,94.0,NO,3,0.0,Yes,7.78
+1058,Female,Electronics,Delhi,5.53,73,100,72.0,no,5,2.0,Yes,5.59
+1059,Female,IT,Delhi,,100,43,74.0,YES,3,3.0,Yes,7.44
+1060,Female,Electronics,Delhi,7.71,53,59,77.0,NO,2,2.0,No,
+1061,Female,Mechanical,Nashik,9.81,75,49,92.0,YES,4,2.0,Yes,5.7
+1062,female,Electronics,Nashik,,72,63,65.0,YES,1,4.0,No,
+1063,MALE,Civil,Delhi,8.16,62,93,86.0,no,5,2.0,Yes,8.36
+1064,FEMALE,CSE,Pune,9.66,89,74,82.0,YES,4,5.0,Yes,6.9
+1065,Male,Electronics,Nagpur,5.51,84,65,86.0, No,3,2.0,Yes,4.48
+1066,Female,Electronics,Nagpur,9.69,41,76,93.0,Yes,5,5.0,Yes,4.05
+1067,male,CSE,Nagpur,8.44,80,77,97.0, No,4,3.0,Yes,7.92
+1068,Female,Civil,Nashik,5.34,60,60,73.0,Yes,5,4.0,No,
+1069,male,IT,Nashik,6.5,41,93,95.0,YES,2,2.0,No,
+1070,FEMALE,Electronics,Pune,8.54,66,79,67.0,No,2,5.0,No,
+1071,FEMALE,CSE,Nagpur,5.34,96,78,94.0,No,1,5.0,Yes,11.12
+1072,FEMALE,Mechanical,Nagpur,7.91,48,60,78.0,Yes,1,5.0,No,
+1073,male,CSE,Delhi,6.73,40,49,89.0,NO,2,1.0,No,
+1074,Female,Mechanical,Nashik,8.1,50,77,73.0,no,5,0.0,No,
+1075,FEMALE,Civil,Nagpur,5.23,42,85,79.0,YES,2,3.0,No,
+1076,female,IT,Pune,9.36,91,43,84.0,no,1,2.0,Yes,6.1
+1077,male,CSE,Pune,9.87,62,99,99.0, No,2,1.0,No,
+1078,male,Electronics,Nagpur,9.84,65,96,83.0,No,2,2.0,Yes,9.6
+1079,Female,Civil,Nashik,8.75,43,84,73.0,Yes ,5,2.0,Yes,8.93
+1080,male,CSE,Pune,5.65,57,59,85.0, No,4,4.0,No,
+1081,male,Electronics,Delhi,8.79,94,56,, No,1,4.0,Yes,11.38
+1082,FEMALE,CSE,Pune,5.12,45,94,82.0,Yes,5,4.0,Yes,10.39
+1083,Female,Mechanical,Mumbai,5.11,74,46,81.0,yes,2,1.0,No,
+1084,FEMALE,CSE,Mumbai,6.62,61,43,78.0, No,2,2.0,No,
+1085,FEMALE,CSE,Nashik,7.44,82,68,62.0,YES,4,0.0,No,
+1086,Female,CSE,Nagpur,8.85,54,53,78.0, Yes,1,3.0,No,
+1087,Male,Civil,Nashik,8.42,61,42,68.0, Yes,1,4.0,No,
+1088,FEMALE,CSE,Nashik,7.23,99,63,87.0,YES,3,4.0,Yes,8.1
+1089,female,Electronics,Nashik,6.37,76,76,79.0,yes,1,2.0,Yes,8.91
+1090,female,Mechanical,Nashik,9.99,91,55,66.0,yes,4,2.0,Yes,11.09
+1091,male,Mechanical,Delhi,7.13,81,97,73.0,Yes,3,1.0,Yes,6.6
+1092,female,CSE,Delhi,7.26,51,94,68.0,No,3,1.0,No,
+1093,male,Civil,Pune,5.82,86,91,78.0,no,2,4.0,Yes,5.94
+1094,Male,Civil,Mumbai,8.97,88,43,73.0,yes,2,2.0,No,
+1095,Female,Electronics,Nashik,8.47,81,95,97.0,Yes ,1,0.0,Yes,3.1
+1096,Female,CSE,Pune,6.1,77,63,95.0,Yes,3,3.0,Yes,10.44
+1097,Female,Mechanical,Mumbai,5.41,57,73,99.0,NO,2,2.0,No,
+1098,female,Civil,Nagpur,8.4,84,69,76.0,Yes,4,2.0,Yes,10.21
+1099,Male,CSE,Delhi,8.27,74,57,89.0, No,2,5.0,Yes,3.94
+1100,female,Civil,Mumbai,6.37,69,58,68.0,no,2,1.0,No,
+1101,female,Civil,Nagpur,9.75,63,70,92.0,NO,3,3.0,Yes,8.19
+1102,Male,Mechanical,Mumbai,5.76,81,99,84.0,,3,4.0,Yes,7.18
+1103,Male,IT,Delhi,7.16,69,99,73.0,Yes ,5,2.0,Yes,4.07
+1104,Male,Electronics,Delhi,9.72,53,58,70.0,,4,4.0,No,
+1105,Male,Electronics,Pune,7.1,45,88,94.0,Yes ,3,2.0,Yes,11.83
+1106,Female,Mechanical,Nashik,8.19,42,85,100.0,Yes,1,4.0,Yes,4.93
+1107,MALE,Civil,Mumbai,6.99,55,58,73.0,no,4,,No,
+1108,MALE,CSE,Mumbai,6.37,46,61,89.0,Yes,4,1.0,No,
+1109,Male,Civil,Nagpur,9.92,91,63,100.0, Yes,3,3.0,Yes,3.61
+1110,MALE,Mechanical,Delhi,7.05,53,84,63.0, No,4,5.0,Yes,8.35
+1111,MALE,Electronics,Mumbai,9.47,48,51,63.0, No,3,0.0,No,
+1112,Male,Civil,Delhi,6.15,54,69,87.0,Yes ,2,1.0,No,
+1113,MALE,Electronics,Mumbai,6.07,60,97,67.0, Yes,5,3.0,No,
+1114,female,CSE,Pune,5.16,74,77,61.0,yes,2,5.0,No,
+1115,male,Electronics,Nashik,8.26,41,92,100.0,yes,3,0.0,Yes,9.65
+1116,male,Electronics,Mumbai,6.84,66,70,81.0,Yes ,3,5.0,Yes,3.29
+1117,Male,IT,Delhi,9.32,41,75,100.0,Yes,2,2.0,Yes,8.93
+1118,Female,IT,Pune,7.37,74,58,75.0,Yes ,1,2.0,Yes,7.79
+1119,Male,IT,Mumbai,9.84,57,87,88.0,No,1,4.0,Yes,3.93
+1120,Female,Electronics,Nagpur,5.93,53,84,89.0,NO,1,1.0,No,
+1121,male,Mechanical,Nashik,9.34,59,75,71.0, No,3,2.0,Yes,4.55
+1122,Male,Electronics,Mumbai,8.88,57,69,94.0,yes,4,5.0,Yes,8.11
+1123,FEMALE,Mechanical,Pune,8.85,49,94,70.0,YES,3,1.0,No,
+1124,female,Mechanical,Nagpur,9.22,64,88,80.0,,4,2.0,Yes,5.67
+1125,MALE,IT,Pune,8.81,41,94,80.0, No,2,4.0,Yes,11.44
+1126,Female,Civil,Pune,8.13,64,72,64.0,NO,5,3.0,Yes,10.37
+1127,FEMALE,CSE,Nagpur,5.66,100,57,79.0, No,4,4.0,Yes,11.85
+1128,MALE,IT,Pune,5.16,93,91,,YES,1,0.0,No,
+1129,MALE,IT,Nagpur,9.6,72,88,62.0,Yes ,3,2.0,Yes,5.34
+1130,Male,Civil,Mumbai,8.08,75,98,92.0, Yes,2,0.0,Yes,11.73
+1131,MALE,CSE,Nagpur,8.98,70,67,68.0,YES,1,0.0,No,
+1132,female,Electronics,Nagpur,7.41,53,98,68.0, No,2,5.0,No,
+1133,FEMALE,Electronics,Nashik,5.59,40,86,63.0, No,5,1.0,No,
+1134,MALE,IT,Nagpur,5.63,85,50,94.0,No,3,5.0,Yes,6.88
+1135,Male,CSE,Nagpur,8.43,55,96,76.0,No,3,2.0,Yes,6.13
+1136,female,IT,Mumbai,,93,99,93.0,no,5,,Yes,3.45
+1137,male,Mechanical,Nashik,6.0,85,93,83.0,No,3,,Yes,3.47
+1138,FEMALE,IT,Delhi,7.46,100,84,91.0,Yes,4,0.0,Yes,9.23
+1139,MALE,IT,Mumbai,5.32,91,72,, Yes,2,3.0,No,
+1140,Male,Electronics,Mumbai,7.91,42,56,67.0,NO,1,5.0,No,
+1141,male,Electronics,Delhi,6.34,74,45,82.0,YES,5,5.0,Yes,7.12
+1142,male,Electronics,Nagpur,8.99,80,43,99.0, No,4,1.0,Yes,5.04
+1143,Female,Mechanical,Pune,6.55,45,59,71.0,no,1,0.0,No,
+1144,female,Electronics,Nashik,7.28,64,87,71.0,no,1,4.0,No,
+1145,MALE,CSE,Pune,5.06,52,86,74.0,NO,5,5.0,No,
+1146,Male,Civil,Delhi,5.36,92,66,100.0, Yes,4,5.0,Yes,8.53
+1147,Female,CSE,Mumbai,6.96,73,54,78.0,YES,1,1.0,No,
+1148,female,CSE,Mumbai,7.4,47,45,85.0,yes,1,3.0,No,
+1149,Female,Electronics,Nashik,8.0,60,86,88.0,No,4,1.0,Yes,5.28
+1150,FEMALE,Civil,Mumbai,6.46,73,53,81.0,Yes ,3,0.0,No,
+1151,female,Civil,Mumbai,8.47,43,99,99.0,no,1,2.0,Yes,8.2
+1152,female,Civil,Nashik,9.3,64,50,80.0,No,2,2.0,No,
+1153,MALE,Mechanical,Nashik,8.9,54,78,97.0,No,4,,Yes,6.23
+1154,female,Electronics,Delhi,5.2,43,48,79.0,Yes,1,5.0,No,
+1155,Female,Civil,Mumbai,7.4,84,65,88.0, Yes,5,3.0,Yes,10.41
+1156,female,Mechanical,Mumbai,5.52,99,55,63.0,Yes ,2,5.0,No,
+1157,MALE,IT,Delhi,6.21,51,44,66.0,yes,1,5.0,No,
+1158,MALE,IT,Nagpur,,71,96,87.0, No,2,2.0,Yes,10.39
+1159,FEMALE,Mechanical,Nagpur,5.71,71,91,87.0,Yes,2,3.0,Yes,7.3
+1160,Female,Mechanical,Nagpur,7.49,67,100,63.0,No,3,1.0,No,
+1161,male,Electronics,Delhi,8.09,52,49,81.0,No,2,5.0,No,
+1162,male,Electronics,Mumbai,8.51,70,89,71.0,Yes ,3,4.0,Yes,6.16
+1163,female,IT,Delhi,7.8,53,42,62.0,Yes ,4,4.0,No,
+1164,FEMALE,Civil,Delhi,5.05,59,52,81.0,Yes ,3,1.0,No,
+1165,Male,IT,Nagpur,6.63,57,82,61.0,No,5,4.0,No,
+1166,female,Civil,Pune,7.59,68,88,83.0,no,1,0.0,No,
+1167,FEMALE,Civil,Mumbai,5.44,99,69,93.0,YES,4,5.0,Yes,6.26
+1168,Female,Electronics,Nagpur,6.75,45,93,86.0,No,4,1.0,No,
+1169,Female,CSE,Pune,5.17,71,84,100.0,Yes,5,3.0,Yes,10.25
+1170,Female,CSE,Pune,5.39,68,45,60.0, Yes,3,5.0,No,
+1171,Female,Mechanical,Nashik,6.98,82,56,67.0,yes,1,1.0,No,
+1172,Female,Electronics,Mumbai,5.66,41,98,82.0, No,3,2.0,Yes,5.95
+1173,FEMALE,Civil,Pune,7.84,99,84,97.0,yes,2,3.0,Yes,4.88
+1174,FEMALE,CSE,Nagpur,,62,90,65.0,No,3,2.0,Yes,3.76
+1175,MALE,Civil,Nashik,9.0,58,92,81.0,Yes,4,5.0,Yes,7.2
+1176,male,CSE,Mumbai,6.0,70,58,84.0,No,1,3.0,No,
+1177,Female,CSE,Delhi,5.84,90,81,77.0, Yes,3,4.0,Yes,7.34
+1178,Male,CSE,Nagpur,5.52,44,74,76.0,no,1,1.0,No,
+1179,FEMALE,Electronics,Pune,8.18,58,85,71.0, No,1,5.0,No,
+1180,Male,IT,Pune,8.53,73,65,65.0, Yes,2,0.0,No,
+1181,Male,Civil,Nagpur,5.16,49,90,85.0,No,2,3.0,No,
+1182,Male,Electronics,Pune,9.68,64,44,86.0,Yes,4,3.0,Yes,10.57
+1183,MALE,Electronics,Nashik,5.26,41,68,67.0, Yes,5,5.0,No,
+1184,FEMALE,Electronics,Mumbai,7.71,50,76,78.0,NO,1,5.0,Yes,4.99
+1185,Male,Electronics,Nashik,8.55,89,59,60.0,Yes,5,2.0,Yes,6.43
+1186,Female,Electronics,Pune,9.35,100,88,88.0,no,4,4.0,Yes,10.28
+1187,female,Mechanical,Delhi,8.57,70,60,94.0,No,1,2.0,Yes,10.41
+1188,Male,Civil,Mumbai,9.01,95,49,99.0,Yes ,1,2.0,Yes,6.46
+1189,MALE,Electronics,Mumbai,6.7,54,44,73.0, No,5,4.0,No,
+1190,FEMALE,Civil,Nagpur,9.07,48,75,94.0,YES,3,0.0,Yes,7.13
+1191,MALE,Mechanical,Nagpur,5.4,62,45,79.0,Yes ,2,2.0,No,
+1192,Male,Mechanical,Delhi,9.47,58,65,72.0,No,3,2.0,No,
+1193,FEMALE,Civil,Mumbai,7.74,48,43,97.0,NO,5,3.0,Yes,5.73
+1194,female,CSE,Delhi,9.09,74,78,67.0,Yes ,2,4.0,Yes,11.39
+1195,Male,IT,Nagpur,7.26,60,78,79.0, No,3,1.0,Yes,4.07
+1196,MALE,CSE,Nagpur,8.22,48,89,92.0,Yes,2,0.0,No,
+1197,male,CSE,Mumbai,7.63,67,74,85.0,NO,1,0.0,No,
+1198,Female,CSE,Nashik,8.66,85,40,98.0,NO,3,4.0,Yes,11.4
+1199,MALE,Electronics,Pune,5.41,90,63,80.0, Yes,2,5.0,No,
+1200,FEMALE,Mechanical,Nagpur,5.3,46,96,100.0, No,2,5.0,No,
+1201,Male,CSE,Nagpur,6.24,55,75,68.0,Yes ,2,3.0,No,
+1202,Female,Mechanical,Nashik,5.8,55,45,83.0, Yes,3,3.0,No,
+1203,Male,Civil,Nashik,9.36,99,80,96.0,NO,4,4.0,Yes,9.15
+1204,FEMALE,IT,Delhi,6.1,72,93,100.0, Yes,3,3.0,Yes,7.78
+1205,Male,Civil,Delhi,9.88,43,85,76.0,yes,5,0.0,Yes,3.29
+1206,male,Civil,Pune,6.68,43,99,83.0, No,3,0.0,No,
+1207,Female,Electronics,Pune,5.91,78,83,80.0,no,2,1.0,No,
+1208,Female,IT,Mumbai,8.95,79,99,98.0,Yes,1,5.0,Yes,7.28
+1209,FEMALE,Civil,Delhi,8.29,56,96,100.0,NO,3,4.0,Yes,6.67
+1210,male,Civil,Nagpur,7.49,76,70,98.0,,3,2.0,Yes,4.45
+1211,MALE,IT,Delhi,,78,59,72.0,no,2,5.0,No,
+1212,Male,IT,Nagpur,8.6,99,63,70.0,no,1,2.0,No,
+1213,female,Civil,Nashik,6.14,91,64,78.0,No,1,1.0,No,
+1214,Male,IT,Delhi,9.98,68,75,70.0, Yes,5,1.0,No,
+1215,Male,Civil,Nashik,9.87,91,60,72.0,no,3,3.0,Yes,8.91
+1216,MALE,Civil,Pune,8.25,75,69,60.0,yes,1,1.0,No,
+1217,Male,Electronics,Pune,6.0,99,63,99.0, No,1,1.0,No,
+1218,male,CSE,Mumbai,8.4,77,83,78.0,YES,4,2.0,Yes,11.74
+1219,male,Civil,Delhi,5.36,78,81,71.0,YES,4,3.0,Yes,8.06
+1220,Female,Mechanical,Nashik,5.15,89,69,67.0,NO,1,1.0,No,
+1221,FEMALE,CSE,Nagpur,6.29,76,61,67.0, Yes,5,5.0,No,
+1222,female,CSE,Pune,7.31,91,67,71.0,no,1,1.0,No,
+1223,Male,CSE,Pune,9.34,100,46,92.0, No,2,3.0,Yes,9.43
+1224,Male,Electronics,Nagpur,11.5,150,74,120.0,NO,3,4.0,Yes,3.62
+1225,MALE,Civil,Nashik,8.71,46,94,98.0,Yes ,5,3.0,Yes,6.76
+1226,FEMALE,Electronics,Nashik,7.13,66,67,87.0,no,2,2.0,No,
+1227,male,Civil,Delhi,,67,53,64.0, Yes,5,4.0,No,
+1228,female,Electronics,Delhi,6.86,61,95,67.0,YES,2,5.0,No,
+1229,Female,Electronics,Mumbai,9.94,53,49,84.0,No,3,0.0,No,
+1230,male,Mechanical,Pune,5.2,46,55,86.0, No,3,3.0,No,
+1231,FEMALE,Electronics,Delhi,9.34,76,55,82.0,Yes,4,2.0,Yes,4.05
+1232,Female,IT,Nashik,7.89,100,93,89.0,NO,2,5.0,Yes,8.52
+1233,MALE,Mechanical,Nagpur,7.19,61,70,82.0, No,4,4.0,Yes,11.45
+1234,MALE,Electronics,Nashik,8.63,44,81,79.0,,2,5.0,Yes,8.96
+1235,Male,CSE,Pune,7.43,94,64,,yes,4,3.0,Yes,3.69
+1236,FEMALE,IT,Nashik,9.37,41,52,77.0,Yes ,3,1.0,No,
+1237,female,IT,Mumbai,9.5,66,45,61.0,no,5,3.0,No,
+1238,Female,IT,Pune,7.11,60,83,63.0,no,4,0.0,No,
+1239,male,Mechanical,Nagpur,6.38,93,48,89.0, Yes,2,3.0,No,
+1240,FEMALE,Electronics,Mumbai,7.96,77,84,92.0,Yes,2,4.0,Yes,6.19
+1241,FEMALE,Electronics,Pune,9.56,54,75,95.0,Yes,3,4.0,Yes,7.96
+1242,MALE,CSE,Nagpur,11.5,150,95,120.0, Yes,2,3.0,No,
+1243,Male,CSE,Mumbai,8.11,49,82,96.0,No,1,4.0,Yes,6.63
+1244,Male,IT,Mumbai,8.16,62,59,78.0,no,5,1.0,No,
+1245,Female,CSE,Pune,8.67,97,57,87.0,No,4,5.0,Yes,10.5
+1246,MALE,Mechanical,Delhi,5.66,95,97,99.0, No,5,3.0,Yes,10.33
+1247,FEMALE,Electronics,Mumbai,8.58,78,82,79.0, No,3,1.0,Yes,8.51
+1248,female,IT,Mumbai,9.55,44,96,92.0,YES,4,5.0,Yes,6.36
+1249,MALE,CSE,Nagpur,5.9,40,60,71.0,Yes,4,,No,
+1250,Female,Mechanical,Nashik,6.19,52,43,74.0,YES,1,1.0,No,
+1251,Female,Mechanical,Pune,9.86,60,89,100.0,Yes ,3,2.0,Yes,5.3
+1252,MALE,CSE,Pune,5.9,65,72,, Yes,2,3.0,No,
+1253,Female,Electronics,Delhi,9.27,89,66,61.0, Yes,1,5.0,No,
+1254,MALE,CSE,Delhi,7.46,84,46,88.0, No,1,5.0,Yes,3.95
+1255,male,IT,Pune,6.24,60,45,100.0,no,5,4.0,No,
+1256,MALE,CSE,Delhi,9.35,92,54,69.0,No,5,5.0,Yes,6.19
+1257,MALE,Mechanical,Nagpur,7.23,57,57,61.0,Yes,5,1.0,No,
+1258,Female,CSE,Pune,7.57,76,71,70.0,YES,1,5.0,Yes,6.72
+1259,Female,Electronics,Delhi,6.8,84,95,72.0,No,2,2.0,No,
+1260,Male,Civil,Pune,7.96,71,50,69.0,YES,4,3.0,Yes,9.08
+1261,Male,CSE,Nashik,5.82,75,59,,Yes ,5,3.0,No,
+1262,male,Electronics,Mumbai,6.96,56,63,77.0,Yes ,2,5.0,No,
+1263,Male,Electronics,Pune,9.85,74,54,68.0,No,3,0.0,No,
+1264,MALE,Mechanical,Mumbai,6.29,88,87,98.0,No,5,0.0,Yes,8.92
+1265,Female,Electronics,Delhi,8.28,99,46,87.0,No,4,1.0,Yes,3.63
+1266,Male,Electronics,Mumbai,6.63,50,60,62.0,YES,3,0.0,No,
+1267,Male,Electronics,Pune,8.87,60,81,79.0,yes,3,1.0,Yes,6.56
+1268,male,Electronics,Nashik,5.65,91,65,65.0,No,4,4.0,No,
+1269,FEMALE,IT,Delhi,9.85,94,83,86.0,no,5,1.0,Yes,4.64
+1270,male,IT,Pune,7.27,92,95,61.0,Yes,1,0.0,No,
+1271,MALE,Mechanical,Delhi,6.18,65,53,88.0,Yes,4,5.0,No,
+1272,Female,CSE,Nagpur,5.37,43,96,97.0,YES,4,4.0,Yes,4.41
+1273,male,Electronics,Mumbai,5.85,73,76,62.0,No,4,0.0,No,
+1274,Male,CSE,Nagpur,7.6,91,97,75.0, No,3,,Yes,10.45
+1275,Female,CSE,Pune,6.69,87,60,89.0, Yes,2,2.0,No,
+1276,Female,Mechanical,Nashik,9.14,99,57,99.0,yes,1,,Yes,3.38
+1277,Male,Electronics,Delhi,7.15,57,44,61.0,no,5,0.0,No,
+1278,male,Electronics,Mumbai,6.24,79,42,76.0, No,5,,No,
+1279,Male,Civil,Delhi,,74,62,100.0,,2,4.0,Yes,6.77
+1280,FEMALE,CSE,Pune,8.53,80,65,71.0, No,4,0.0,No,
+1281,Female,CSE,Delhi,5.84,68,76,94.0,YES,1,0.0,No,
+1282,female,IT,Mumbai,5.84,91,63,60.0,yes,5,3.0,No,
+1283,female,Civil,Pune,5.18,68,88,74.0,NO,5,1.0,No,
+1284,MALE,IT,Delhi,11.5,150,58,120.0,NO,4,2.0,Yes,4.51
+1285,Male,IT,Nashik,8.32,81,90,96.0,No,2,4.0,Yes,10.91
+1286,Male,IT,Pune,7.37,60,64,80.0,No,1,1.0,No,
+1287,MALE,Mechanical,Pune,9.22,81,60,90.0,YES,2,4.0,Yes,8.01
+1288,MALE,Mechanical,Nashik,9.03,52,51,84.0,No,2,0.0,No,
+1289,MALE,IT,Nagpur,7.93,88,96,82.0, Yes,1,3.0,Yes,5.08
+1290,Female,Civil,Mumbai,9.34,80,100,83.0,yes,1,3.0,Yes,7.52
+1291,FEMALE,CSE,Nagpur,6.03,56,80,97.0,YES,5,5.0,Yes,9.58
+1292,Male,Civil,Delhi,5.56,95,72,87.0,Yes,5,2.0,Yes,11.62
+1293,Female,Electronics,Nashik,6.35,48,89,80.0,Yes ,1,3.0,No,
+1294,MALE,Mechanical,Nagpur,5.29,80,92,77.0,YES,3,0.0,Yes,4.98
+1295,Male,CSE,Pune,7.66,40,43,95.0,YES,5,2.0,Yes,10.98
+1296,Female,CSE,Delhi,9.68,41,81,94.0,NO,3,1.0,Yes,11.41
+1297,FEMALE,Electronics,Delhi,5.2,99,96,68.0,no,1,3.0,No,
+1298,Female,Electronics,Nagpur,5.61,87,46,97.0,no,5,2.0,Yes,11.25
+1299,FEMALE,IT,Nagpur,7.26,68,61,89.0, Yes,2,0.0,No,
+1300,MALE,Mechanical,Nashik,9.67,72,94,93.0,Yes,1,5.0,Yes,8.72
+1301,FEMALE,Mechanical,Mumbai,6.58,49,72,91.0,NO,4,4.0,Yes,8.67
+1302,Male,Civil,Nagpur,7.54,89,56,62.0,Yes,3,4.0,Yes,6.63
+1303,MALE,IT,Nagpur,5.21,97,63,62.0, Yes,1,0.0,No,
+1304,Male,IT,Pune,5.74,99,100,87.0,no,1,0.0,No,
+1305,female,IT,Delhi,9.93,79,100,74.0,YES,5,4.0,Yes,9.77
+1306,male,IT,Mumbai,9.83,60,73,100.0,No,5,5.0,Yes,7.78
+1307,FEMALE,Mechanical,Pune,5.02,67,67,82.0,No,5,2.0,No,
+1308,male,Mechanical,Nashik,9.76,50,97,99.0, No,4,4.0,Yes,9.1
+1309,male,IT,Nashik,8.2,94,82,70.0,Yes ,5,0.0,Yes,6.86
+1310,FEMALE,Civil,Nagpur,9.34,73,80,91.0, Yes,1,3.0,Yes,9.58
+1311,MALE,CSE,Nagpur,7.27,47,78,95.0,Yes ,5,1.0,Yes,10.42
+1312,female,CSE,Nashik,7.58,98,61,92.0,Yes ,2,5.0,Yes,4.32
+1313,Male,Civil,Nagpur,7.44,61,88,83.0,no,5,5.0,Yes,10.5
+1314,Female,IT,Mumbai,8.33,47,56,98.0,no,4,3.0,Yes,7.86
+1315,Male,Mechanical,Nagpur,5.7,88,73,93.0,YES,2,3.0,Yes,10.6
+1316,Female,CSE,Delhi,5.15,54,45,87.0,NO,1,0.0,No,
+1317,Male,Electronics,Nagpur,6.54,56,85,96.0,no,1,4.0,No,
+1318,FEMALE,Electronics,Pune,8.52,99,45,66.0,No,3,2.0,Yes,6.88
+1319,female,Civil,Mumbai,6.01,62,73,63.0,Yes ,2,5.0,No,
+1320,Female,IT,Pune,8.37,63,40,96.0, No,3,5.0,Yes,6.41
+1321,MALE,CSE,Pune,9.85,84,49,60.0,yes,2,3.0,No,
+1322,Male,IT,Delhi,5.47,58,60,60.0, Yes,2,4.0,No,
+1323,Male,CSE,Mumbai,8.36,44,44,79.0, No,4,5.0,Yes,11.24
+1324,Female,Civil,Mumbai,7.22,71,41,78.0,No,3,2.0,Yes,5.26
+1325,MALE,Civil,Mumbai,9.34,83,61,,no,4,3.0,Yes,10.6
+1326,MALE,Electronics,Mumbai,5.89,40,87,69.0,NO,2,2.0,No,
+1327,FEMALE,IT,Mumbai,8.46,62,96,77.0,YES,1,4.0,Yes,7.36
+1328,FEMALE,Electronics,Delhi,,76,41,87.0,yes,2,5.0,Yes,7.63
+1329,FEMALE,IT,Nagpur,11.5,150,49,120.0,Yes,4,1.0,No,
+1330,FEMALE,Electronics,Pune,8.42,52,73,90.0, No,3,5.0,Yes,5.78
+1331,FEMALE,Mechanical,Mumbai,7.49,47,55,86.0,NO,3,4.0,Yes,8.16
+1332,FEMALE,Mechanical,Nagpur,8.09,96,87,70.0,Yes,4,5.0,Yes,5.93
+1333,female,Mechanical,Nagpur,9.34,62,90,97.0,yes,3,5.0,Yes,3.35
+1334,MALE,Mechanical,Pune,7.85,82,100,64.0, Yes,5,0.0,Yes,5.45
+1335,FEMALE,CSE,Delhi,5.15,40,78,67.0, Yes,1,5.0,No,
+1336,MALE,Mechanical,Nashik,9.65,84,61,93.0,Yes ,1,5.0,Yes,3.06
+1337,MALE,Civil,Nashik,8.45,90,51,71.0,yes,1,2.0,No,
+1338,male,Civil,Nagpur,8.38,63,63,97.0,yes,3,1.0,No,
+1339,female,CSE,Pune,6.08,74,86,60.0,Yes,3,2.0,Yes,11.81
+1340,FEMALE,Mechanical,Nashik,8.29,63,79,90.0,NO,2,2.0,Yes,11.69
+1341,Male,Mechanical,Nagpur,6.97,56,77,63.0,Yes,2,3.0,No,
+1342,Female,Mechanical,Delhi,8.26,44,99,64.0,YES,1,0.0,No,
+1343,Male,Electronics,Nashik,5.53,59,98,89.0, Yes,5,2.0,Yes,6.56
+1344,female,IT,Nagpur,8.29,60,49,83.0, Yes,2,4.0,No,
+1345,Female,Electronics,Nagpur,10.0,79,74,62.0,Yes ,2,4.0,Yes,9.56
+1346,female,IT,Mumbai,5.24,97,90,70.0,YES,3,5.0,Yes,6.11
+1347,MALE,Mechanical,Delhi,9.89,70,88,63.0, Yes,5,3.0,Yes,9.04
+1348,Female,Mechanical,Mumbai,7.03,85,71,85.0,Yes,1,0.0,Yes,10.25
+1349,MALE,Electronics,Pune,9.35,75,46,86.0,YES,2,0.0,No,
+1350,Male,Electronics,Mumbai,8.91,50,60,86.0,Yes,5,5.0,Yes,11.52
+1351,Male,IT,Mumbai,7.84,91,59,65.0, Yes,5,4.0,Yes,6.6
+1352,Female,Civil,Nashik,8.69,54,65,74.0, Yes,1,1.0,No,
+1353,Female,IT,Nagpur,9.39,58,43,89.0,NO,5,3.0,Yes,10.05
+1354,FEMALE,Electronics,Delhi,7.02,46,85,96.0, No,5,5.0,Yes,5.39
+1355,female,Electronics,Mumbai,6.64,90,91,96.0, No,5,3.0,Yes,11.91
+1356,FEMALE,CSE,Delhi,8.34,67,61,96.0,Yes ,2,4.0,No,
+1357,female,Electronics,Mumbai,9.04,90,54,94.0,Yes,1,4.0,Yes,3.23
+1358,FEMALE,CSE,Pune,8.81,82,95,82.0,Yes,5,1.0,Yes,8.43
+1359,MALE,Civil,Mumbai,8.99,97,79,65.0,,5,1.0,Yes,8.94
+1360,Female,IT,Nashik,7.18,44,60,63.0,YES,2,0.0,No,
+1361,Male,IT,Nagpur,9.09,44,54,77.0,no,1,3.0,No,
+1362,female,CSE,Pune,5.6,69,61,, No,3,3.0,No,
+1363,female,IT,Mumbai,7.72,93,91,88.0, Yes,2,4.0,Yes,9.19
+1364,Male,Electronics,Delhi,5.03,71,67,72.0,Yes ,1,0.0,No,
+1365,FEMALE,Mechanical,Pune,6.62,47,53,76.0,no,5,5.0,No,
+1366,female,CSE,Pune,6.83,49,66,91.0,yes,1,3.0,No,
+1367,MALE,IT,Mumbai,6.98,77,100,81.0,Yes ,1,0.0,No,
+1368,Female,CSE,Pune,8.48,86,80,63.0,yes,1,0.0,No,
+1369,Male,CSE,Delhi,6.94,71,79,64.0,yes,3,4.0,Yes,4.08
+1370,Female,Mechanical,Pune,7.24,87,97,96.0,yes,1,0.0,Yes,11.45
+1371,female,Electronics,Delhi,6.19,67,67,100.0,NO,3,1.0,No,
+1372,female,CSE,Mumbai,6.87,56,65,72.0,NO,5,1.0,No,
+1373,Male,IT,Nagpur,,70,88,93.0,NO,3,2.0,Yes,4.63
+1374,MALE,Civil,Pune,5.37,47,41,81.0,no,5,4.0,No,
+1375,male,CSE,Nagpur,8.02,79,64,82.0,Yes ,5,5.0,Yes,8.6
+1376,Male,CSE,Delhi,8.34,64,95,62.0,Yes ,3,2.0,Yes,5.0
+1377,male,Mechanical,Pune,8.1,48,42,93.0, Yes,2,1.0,No,
+1378,FEMALE,Electronics,Nashik,7.32,41,47,91.0,NO,4,2.0,Yes,5.76
+1379,male,Civil,Nagpur,6.9,54,83,80.0, Yes,1,4.0,No,
+1380,MALE,IT,Pune,9.32,89,72,80.0,YES,4,4.0,Yes,7.92
+1381,FEMALE,Civil,Nagpur,7.6,42,81,70.0, Yes,1,0.0,No,
+1382,male,IT,Pune,7.4,88,91,98.0,no,1,3.0,Yes,6.75
+1383,FEMALE,Electronics,Mumbai,5.13,75,74,63.0, No,5,0.0,No,
+1384,male,IT,Nagpur,6.71,43,45,60.0,yes,1,4.0,No,
+1385,MALE,Mechanical,Nashik,6.9,53,78,87.0,NO,1,,No,
+1386,male,Mechanical,Nashik,6.99,80,91,83.0, No,3,5.0,Yes,4.44
+1387,male,Mechanical,Delhi,7.9,80,62,94.0, Yes,4,1.0,Yes,4.54
+1388,male,Mechanical,Pune,7.67,64,64,72.0,yes,3,0.0,No,
+1389,Male,Civil,Nagpur,8.04,97,98,93.0,Yes ,1,5.0,Yes,6.76
+1390,Male,Electronics,Delhi,8.82,94,89,70.0,Yes,5,4.0,Yes,9.82
+1391,Male,IT,Nagpur,9.06,89,82,95.0,yes,3,1.0,Yes,11.08
+1392,MALE,IT,Pune,8.59,49,58,76.0,no,3,4.0,Yes,3.76
+1393,FEMALE,Mechanical,Nashik,9.78,60,44,94.0,no,2,5.0,No,
+1394,female,Mechanical,Mumbai,5.09,75,90,77.0, Yes,1,5.0,Yes,6.54
+1395,male,CSE,Nashik,5.98,51,50,,,5,1.0,No,
+1396,male,Electronics,Delhi,5.04,66,95,81.0,no,3,4.0,Yes,3.9
+1397,MALE,Civil,Mumbai,8.24,79,51,83.0,no,3,2.0,Yes,3.15
+1398,male,IT,Delhi,9.49,41,49,78.0, Yes,5,4.0,Yes,8.96
+1399,Male,CSE,Pune,6.22,93,47,96.0,yes,1,5.0,No,
+1400,female,CSE,Mumbai,9.64,52,63,98.0,,2,4.0,No,
+1401,Female,IT,Delhi,5.3,92,99,80.0, No,3,0.0,Yes,8.42
+1402,male,Civil,Pune,9.67,71,67,67.0,Yes,2,2.0,No,
+1403,Male,CSE,Nashik,6.76,70,80,87.0,NO,4,3.0,Yes,4.47
+1404,Female,CSE,Pune,5.51,55,75,64.0,Yes ,1,0.0,No,
+1405,female,Electronics,Nagpur,7.43,71,76,76.0,no,4,3.0,Yes,5.1
+1406,Female,Civil,Pune,6.28,71,60,96.0,,4,1.0,No,
+1407,Male,CSE,Pune,6.42,99,47,95.0,NO,4,3.0,Yes,3.21
+1408,FEMALE,Civil,Nagpur,6.54,73,94,78.0,Yes ,1,4.0,Yes,10.51
+1409,FEMALE,IT,Delhi,9.02,50,48,,Yes ,1,3.0,No,
+1410,Female,Mechanical,Delhi,7.7,49,86,93.0, No,5,5.0,Yes,11.77
+1411,MALE,CSE,Pune,6.56,54,54,70.0, No,2,0.0,No,
+1412,Female,Electronics,Nagpur,8.05,56,87,71.0, No,2,0.0,No,
+1413,male,IT,Nagpur,8.58,79,85,80.0,No,5,3.0,Yes,4.22
+1414,male,Civil,Nashik,6.36,57,79,70.0,No,5,0.0,No,
+1415,FEMALE,IT,Delhi,7.07,94,57,98.0,Yes ,4,5.0,Yes,5.08
+1416,MALE,CSE,Mumbai,5.61,48,81,87.0, No,5,0.0,No,
+1417,Male,Civil,Delhi,5.91,64,99,64.0,no,3,3.0,No,
+1418,male,Mechanical,Delhi,8.41,79,59,76.0,NO,2,2.0,Yes,10.82
+1419,FEMALE,IT,Nashik,5.91,98,45,79.0,NO,5,2.0,Yes,11.34
+1420,female,CSE,Mumbai,7.63,53,51,100.0,No,3,1.0,No,
+1421,FEMALE,Electronics,Nashik,8.55,99,41,71.0,Yes ,3,0.0,No,
+1422,male,Civil,Mumbai,5.53,97,46,65.0, Yes,3,3.0,No,
+1423,male,IT,Pune,7.84,64,55,76.0,yes,3,0.0,No,
+1424,FEMALE,IT,Mumbai,6.28,89,42,78.0,yes,4,4.0,Yes,6.78
+1425,Male,Mechanical,Nashik,9.81,61,84,85.0,No,3,5.0,Yes,3.46
+1426,Female,Mechanical,Delhi,7.42,91,42,91.0, Yes,4,0.0,Yes,3.35
+1427,male,Electronics,Mumbai,9.03,69,66,65.0,No,4,,No,
+1428,FEMALE,Electronics,Mumbai,7.75,59,89,95.0,yes,3,2.0,Yes,8.17
+1429,FEMALE,CSE,Nagpur,5.22,60,82,97.0, Yes,2,5.0,No,
+1430,MALE,CSE,Delhi,8.17,83,79,70.0, No,3,3.0,Yes,6.54
+1431,Female,Electronics,Pune,9.76,71,77,92.0,Yes ,3,0.0,Yes,3.26
+1432,female,Electronics,Nashik,8.01,90,72,83.0,NO,3,2.0,Yes,8.25
+1433,Male,Civil,Pune,9.1,85,67,82.0,,2,1.0,No,
+1434,female,Mechanical,Delhi,9.42,88,40,74.0,Yes ,1,5.0,No,
+1435,Female,CSE,Mumbai,6.14,95,94,86.0, No,1,2.0,Yes,3.1
+1436,Female,Mechanical,Mumbai,6.06,60,47,,yes,4,2.0,No,
+1437,Female,Mechanical,Delhi,8.05,74,76,76.0, No,4,2.0,Yes,10.09
+1438,female,Electronics,Mumbai,7.06,97,71,73.0,No,2,0.0,No,
+1439,Female,Civil,Mumbai,9.2,71,99,86.0, Yes,5,0.0,Yes,5.76
+1440,FEMALE,IT,Mumbai,9.5,69,87,77.0,NO,1,1.0,No,
+1441,female,Civil,Nashik,6.77,94,82,87.0,no,4,4.0,Yes,3.36
+1442,Female,Civil,Nashik,6.18,78,76,63.0,No,1,,No,
+1443,FEMALE,Mechanical,Nagpur,,88,43,66.0,Yes ,2,4.0,No,
+1444,MALE,Civil,Pune,6.37,51,69,94.0,No,2,5.0,No,
+1445,Female,CSE,Delhi,9.11,80,45,68.0,Yes ,5,5.0,Yes,8.3
+1446,female,Mechanical,Delhi,7.12,86,85,67.0,no,5,1.0,Yes,6.58
+1447,male,CSE,Delhi,8.34,57,93,76.0,Yes,2,5.0,Yes,11.76
+1448,Female,IT,Nagpur,5.48,60,58,76.0,NO,4,,No,
+1449,male,Mechanical,Nashik,8.12,52,71,92.0,YES,1,4.0,Yes,7.9
+1450,FEMALE,IT,Nagpur,7.26,60,48,91.0, No,3,,Yes,5.48
+1451,MALE,Mechanical,Delhi,7.93,47,51,67.0,Yes,5,5.0,No,
+1452,Male,Electronics,Pune,5.84,85,50,78.0,No,3,0.0,No,
+1453,MALE,Civil,Mumbai,8.68,79,85,97.0, No,4,0.0,Yes,9.38
+1454,Female,Electronics,Nashik,9.31,85,94,62.0,Yes,5,2.0,Yes,5.44
+1455,male,IT,Nashik,11.5,150,55,120.0, Yes,3,2.0,No,
+1456,male,Civil,Nagpur,5.48,62,40,72.0, Yes,4,2.0,No,
+1457,female,Mechanical,Nashik,5.12,83,84,90.0, No,1,0.0,No,
+1458,male,Civil,Delhi,8.21,71,94,75.0,Yes ,4,4.0,Yes,11.14
+1459,female,CSE,Delhi,8.04,50,92,91.0,Yes ,5,2.0,Yes,6.37
+1460,FEMALE,Civil,Nagpur,7.73,61,60,81.0,No,2,1.0,No,
+1461,Male,CSE,Delhi,6.16,61,69,88.0,Yes,1,2.0,No,
+1462,Female,Civil,Pune,6.95,82,52,81.0,Yes,3,3.0,Yes,7.95
+1463,female,CSE,Nagpur,7.97,64,73,62.0, No,5,2.0,Yes,3.46
+1464,Male,IT,Pune,7.48,61,43,69.0,yes,2,0.0,No,
+1465,male,Electronics,Mumbai,9.94,67,67,80.0, Yes,4,5.0,Yes,6.84
+1466,male,Mechanical,Pune,5.68,68,77,75.0,Yes,2,2.0,No,
+1467,Male,Civil,Mumbai,8.48,52,97,71.0, No,5,5.0,Yes,10.49
+1468,male,Electronics,Mumbai,7.02,57,70,,no,5,3.0,Yes,10.25
+1469,FEMALE,Mechanical,Pune,7.14,41,98,100.0,YES,2,1.0,No,
+1470,FEMALE,Mechanical,Nagpur,8.59,68,94,83.0,no,4,5.0,Yes,5.02
+1471,Male,CSE,Delhi,8.46,60,66,94.0,NO,2,4.0,No,
+1472,female,IT,Delhi,9.96,54,44,89.0,No,5,2.0,Yes,5.03
+1473,female,IT,Mumbai,,91,64,89.0,Yes,5,3.0,Yes,10.36
+1474,Male,Electronics,Mumbai,5.52,66,42,94.0,NO,3,3.0,No,
+1475,female,IT,Nagpur,8.62,89,72,78.0,NO,3,5.0,Yes,11.37
+1476,female,Civil,Nashik,7.89,70,43,67.0, No,1,1.0,No,
+1477,FEMALE,IT,Pune,6.37,54,64,85.0,Yes,5,0.0,No,
+1478,female,Electronics,Mumbai,5.4,90,59,99.0,YES,3,2.0,Yes,3.86
+1479,MALE,IT,Delhi,5.43,62,73,66.0, No,2,3.0,No,
+1480,Female,Civil,Nagpur,9.47,63,65,89.0, No,4,1.0,No,
+1481,male,CSE,Pune,5.96,83,44,66.0,No,2,4.0,No,
+1482,MALE,Electronics,Nagpur,6.62,52,74,62.0,No,4,3.0,No,
+1483,female,CSE,Pune,6.13,61,100,60.0, Yes,3,,No,
+1484,FEMALE,CSE,Pune,6.77,82,67,95.0, Yes,1,0.0,No,
+1485,Male,CSE,Mumbai,5.35,76,68,84.0,Yes ,2,0.0,No,
+1486,female,Mechanical,Nagpur,7.6,100,48,96.0,yes,2,3.0,Yes,7.05
+1487,FEMALE,Mechanical,Nagpur,,72,91,60.0,Yes,2,3.0,No,
+1488,Female,CSE,Delhi,9.0,95,77,74.0,Yes,4,5.0,Yes,6.04
+1489,female,Electronics,Delhi,6.17,42,89,96.0,NO,3,2.0,Yes,10.84
+1490,Male,Civil,Mumbai,7.7,93,45,72.0,Yes,2,1.0,No,
+1491,FEMALE,Civil,Mumbai,9.4,58,58,99.0,Yes,2,3.0,No,
+1492,FEMALE,IT,Nashik,8.25,62,99,67.0,yes,1,2.0,No,
+1493,FEMALE,Electronics,Delhi,7.66,68,83,64.0, Yes,1,5.0,No,
+1494,Female,Mechanical,Pune,6.62,69,96,68.0, Yes,3,2.0,No,
+1495,female,CSE,Nagpur,6.67,78,50,60.0,YES,3,3.0,No,
+1496,Female,IT,Mumbai,8.35,83,41,95.0,Yes,5,0.0,Yes,3.75
+1497,male,Civil,Nagpur,9.97,86,86,94.0,yes,1,1.0,Yes,4.9
+1498,male,Mechanical,Nagpur,8.31,64,83,61.0, Yes,5,1.0,No,
+1499,female,Mechanical,Nashik,7.79,76,83,99.0,yes,4,0.0,Yes,9.77
+1500,Female,CSE,Delhi,8.65,86,48,82.0,no,5,3.0,Yes,3.46
+1362,female,CSE,Pune,5.6,69,61,, No,3,3.0,No,
+1074,Female,Mechanical,Nashik,8.1,50,77,73.0,no,5,0.0,No,
+1375,male,CSE,Nagpur,8.02,79,64,82.0,Yes ,5,5.0,Yes,8.6
+1156,female,Mechanical,Mumbai,5.52,99,55,63.0,Yes ,2,5.0,No,
+1105,Male,Electronics,Pune,7.1,45,88,94.0,Yes ,3,2.0,Yes,11.83
+1395,male,CSE,Nashik,5.98,51,50,,,5,1.0,No,
+1378,FEMALE,Electronics,Nashik,7.32,41,47,91.0,NO,4,2.0,Yes,5.76
+1125,MALE,IT,Pune,8.81,41,94,80.0, No,2,4.0,Yes,11.44
+1069,male,IT,Nashik,6.5,41,93,95.0,YES,2,2.0,No,
+1451,MALE,Mechanical,Delhi,7.93,47,51,67.0,Yes,5,5.0,No,
