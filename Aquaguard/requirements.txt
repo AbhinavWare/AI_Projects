@@ -1,0 +1,10 @@
+customtkinter
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+mysql-connector-python
+reportlab
+openpyxl
+bcrypt
